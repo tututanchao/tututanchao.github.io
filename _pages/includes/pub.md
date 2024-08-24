@@ -20,7 +20,7 @@ Zilong Xu, **Chao Tan\***, Jiaxi Zhang, Anning Song, Genlin Ji \\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2023</div><img src='images/PR2023le.png' alt="PR2023le" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2023</div><img src='images/PR2023LEM.png' alt="PR2023le" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A novel label enhancement algorithm based on manifold learning](https://www.sciencedirect.com/science/article/pii/S0031320322006689) \\
 **Chao Tan\***, Sheng Chen, Xin Geng, Genlin Ji \\
