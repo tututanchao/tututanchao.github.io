@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-## 🎙 Selected Publications
+## 🎙 Selected Research Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2024</div><img src='images/xu2024efficient.png' alt="efficient" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -38,6 +38,7 @@ Qinkai Yang, **Chao Tan**, Junzhao Hao, Genlin Ji \\
 </div>
 
 ## 🎙 All Publications
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=AERCZEAAAAAJ).
 ### 📖 Journal Papers
 - `2024 Knowledge-based Systems` [Efficient Representation Learning for Generalized Category Discovery](https://www.sciencedirect.com/science/article/pii/S0950705124008487), Zilong Xu, **Chao Tan\***, Jiaxi Zhang, Anning Song, Genlin Ji
 - `2024 Pattern Recognition` [Label enhancement via manifold approximation and projection with graph convolutional network](https://www.sciencedirect.com/science/article/pii/S0031320324001985), **Chao Tan\***, Sheng Chen, Xin Geng, Yunyao Zhou, Genlin Ji
