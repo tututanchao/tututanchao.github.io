@@ -7,7 +7,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Efficient Representation Learning for Generalized Category Discovery](https://www.sciencedirect.com/science/article/pii/S0950705124008487) \\
-Zilong Xu, **Chao Tan**\*, Jiaxi Zhang, Anning Song, Genlin Ji \\
+Zilong Xu, **Chao Tan\***, Jiaxi Zhang, Anning Song, Genlin Ji \\
 *Keywords: Open-world Learning, generalized category discovery, image classification* 
 </div>
 </div>
