@@ -15,7 +15,7 @@ Zilong Xu, **Chao Tan\***, Jiaxi Zhang, Anning Song, Genlin Ji \\
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2024</div><img src='images/PR2024.png' alt="PR2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Label enhancement via manifold approximation and projection with graph convolutional network](https://www.sciencedirect.com/science/article/pii/S0031320324001985) \\
-**Chao Tan**, Sheng Chen, Xin Geng, Yunyao Zhou, Genlin Ji
+**Chao Tan**, Sheng Chen, Xin Geng, Yunyao Zhou, Genlin Ji \\
 *Keywords: Multi-label classification, Label distribution learning, Manifold learning* 
 </div>
 </div>
@@ -24,7 +24,7 @@ Zilong Xu, **Chao Tan\***, Jiaxi Zhang, Anning Song, Genlin Ji \\
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2023</div><img src='images/hao2023.png' alt="hao2023" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Leveraging Data Correlations for Skin Lesion Classification](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_6) \\ 
-Junzhao Hao, **Chao Tan\***, Qinkai Yang, Jing Cheng, and Genlin Ji
+Junzhao Hao, **Chao Tan\***, Qinkai Yang, Jing Cheng, and Genlin Ji \\
 *Keywords: Medical image classification, Graph convolutional network, Label distribution learning* 
 </div>
 </div>
@@ -33,7 +33,7 @@ Junzhao Hao, **Chao Tan\***, Qinkai Yang, Jing Cheng, and Genlin Ji
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CBD 2023</div><img src='images/yang2023.png' alt="yang2023" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Label Distribution-based Open-world Semi-supervised Learning](https://ieeexplore.ieee.org/abstract/document/10516485/) \\
-Qinkai Yang, **Chao Tan**, Junzhao Hao, Genlin Ji
+Qinkai Yang, **Chao Tan**, Junzhao Hao, Genlin Ji \\
 *Keywords: Open-world SSL, Imbalanced distributions, Label distribution learning* 
 </div>
 </div>
