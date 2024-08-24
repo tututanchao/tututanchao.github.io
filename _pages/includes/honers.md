@@ -1,5 +1,5 @@
 # 🏅 Honors and Awards
-## Academic Title:
+## 🎖 Academic Title:
 - Member of CSIG-BVD Special Committee
 - Member, CSIG Women Authors Committee
 - Member of the China Computer Federation
@@ -7,6 +7,6 @@
 - PRICAI 2018 session chair
 - PC Member of the International Conference on Advanced Cloud and Big Data
 
-## Awards:
+## 🎖 Awards:
 - 2021 ACM China Council Nanjing Chapter Rising Star Award
 - CBD2016 Best Paper Award
