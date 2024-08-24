@@ -38,10 +38,20 @@ Qinkai Yang, **Chao Tan**, Junzhao Hao, Genlin Ji \\
 </div>
 
 ## 🎙 All Publications
+### 📖 Journal Papers
+- `KBS 2024` [Efficient Representation Learning for Generalized Category Discovery](https://www.sciencedirect.com/science/article/pii/S0950705124008487), Zilong Xu, **Chao Tan\***, Jiaxi Zhang, Anning Song, Genlin Ji
+- `PR 2024` [Label enhancement via manifold approximation and projection with graph convolutional network](https://www.sciencedirect.com/science/article/pii/S0031320324001985), **Chao Tan\***, Sheng Chen, Xin Geng, Yunyao Zhou, Genlin Ji
+- 
 
 
-- `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
-- ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
+### 💼 Conference Papers
+- `PRCV 2023` [Leveraging Data Correlations for Skin Lesion Classification](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_6), Junzhao Hao, **Chao Tan\***, Qinkai Yang, Jing Cheng, and Genlin Ji
+- `CBD 2023` [Label Distribution-based Open-world Semi-supervised Learning](https://ieeexplore.ieee.org/abstract/document/10516485/), Qinkai Yang, **Chao Tan**, Junzhao Hao, Genlin Ji
+
+
+
+- `KBS 2024` [Efficient Representation Learning for Generalized Category Discovery](https://www.sciencedirect.com/science/article/pii/S0950705124008487), Zilong Xu, **Chao Tan\***, Jiaxi Zhang, Anning Song, Genlin Ji
+- `PR 2024` [Label enhancement via manifold approximation and projection with graph convolutional network](https://www.sciencedirect.com/science/article/pii/S0031320324001985), **Chao Tan\***, Sheng Chen, Xin Geng, Yunyao Zhou, Genlin Ji
 - ``ACL 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, **Yi Ren**, et al.
 - ``ACL 2023`` [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models](), Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, Rongjie Huang, **Yi Ren** and Zhou Zhao
 - ``ACL 2023`` [Revisiting and Incorporating GAN and Diffusion Models in High-Fidelity Speech Synthesis](), Rongjie Huang, **Yi Ren**, Ziyue Jiang, et al.
