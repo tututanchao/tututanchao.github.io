@@ -1,5 +1,5 @@
 # 📎 Homepages
-- Personal Pages: https://rayeren.github.io (updated recently🔥)
-- Linkedin: https://www.linkedin.com/in/rayeren
-- Google Scholar: https://scholar.google.com/citations?user=4FA6C0AAAAAJ
-- DBLP: https://dblp.org/pid/75/6568-6.html
+- Personal Pages: https://tututanchao.github.io (updated recently🔥)
+- ORCID: http://orcid.org/0000-0002-4064-2978
+- Google Scholar: https://scholar.google.com/citations?user=AERCZEAAAAAJ
+- ResearchGate: https://www.researchgate.net/profile/Chao-Tan-19
