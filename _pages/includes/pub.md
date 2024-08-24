@@ -37,7 +37,7 @@ Zilong Xu, **Chao Tan\***, Jiaxi Zhang, Anning Song, Genlin Ji \\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2021</div><img src='images/TKDE2021.png' alt="TKDE2021" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2022</div><img src='images/TKDE2022.png' alt="TKDE2022" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A novel probabilistic label enhancement algorithm for multi-label distribution learning](https://ieeexplore.ieee.org/abstract/document/9340009/) \\
   **Chao Tan\***, Sheng Chen, Genlin Ji, Xin Geng \\
@@ -55,7 +55,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 - `2023 Concurrency and Computation: Practice and Experience` [Multi‐label enhancement manifold learning algorithm for vehicle video](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.6660), **Chao Tan\***, Genlin Ji, Xiaoqian Zeng
 - `2023 Pattern Recognition` [A novel label enhancement algorithm based on manifold learning](https://www.sciencedirect.com/science/article/pii/S0031320322006689), **Chao Tan\***, Sheng Chen, Xin Geng, Genlin Ji
 - `2023 Pattern Recognition` [A label distribution manifold learning algorithm](https://www.sciencedirect.com/science/article/pii/S0031320322005921), **Chao Tan\***, Sheng Chen, Xin Geng, Genlin Ji
-- `2021 IEEE Transactions on Knowledge and Data Engineering` [A novel probabilistic label enhancement algorithm for multi-label distribution learning](https://ieeexplore.ieee.org/abstract/document/9340009/), **Chao Tan\***, Sheng Chen, Genlin Ji, Xin Geng
+- `2022 IEEE Transactions on Knowledge and Data Engineering` [A novel probabilistic label enhancement algorithm for multi-label distribution learning](https://ieeexplore.ieee.org/abstract/document/9340009/), **Chao Tan\***, Sheng Chen, Genlin Ji, Xin Geng
 - `2020 IEEE Transactions on Cybernetics` [Multilabel distribution learning based on multioutput regression and manifold learning](https://ieeexplore.ieee.org/abstract/document/9238428/), **Chao Tan\***, Sheng Chen, Genlin Ji, Xin Geng
 - `2020 Tsinghua Science and Technology` [LTSA-LE: A local tangent space alignment label enhancement algorithm](https://ieeexplore.ieee.org/abstract/document/9147151/), **Chao Tan\***, Genlin Ji, Richen Liu, Yanqiu Cao
 - `2019 Journal of Imaging Science & Technology` [Sketch-Based Slice Interpretative Visualization for Stratigraphic Data.](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10623701&AN=141352532&h=ogo1uPX79xkUDMbXMML4paKgoSYckMd77XozBiWtU%2BzAkjiayd%2BXOdXZHGW02XhUGmAvJvgUJZZJ%2BHoxjkwiQQ%3D%3D&crl=c), Richen Liu, Liming Shen, Xueyi Chen, Genlin Ji, Bin Zhao, **Chao Tan**, Mingjun Su
