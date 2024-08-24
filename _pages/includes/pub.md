@@ -2,7 +2,6 @@
 # 📝 Publications 
 ## 🎙 Selected Publications
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2024</div><img src='images/xu2024efficient.png' alt="efficient" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Efficient Representation Learning for Generalized Category Discovery](https://www.sciencedirect.com/science/article/pii/S0950705124008487) \\
@@ -23,7 +22,7 @@ Zilong Xu, **Chao Tan\***, Jiaxi Zhang, Anning Song, Genlin Ji \\
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2023</div><img src='images/hao2023.png' alt="hao2023" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Leveraging Data Correlations for Skin Lesion Classification](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_6) \\ 
+[Leveraging Data Correlations for Skin Lesion Classification](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_6) \\
 Junzhao Hao, **Chao Tan\***, Qinkai Yang, Jing Cheng, and Genlin Ji \\
 *Keywords: Medical image classification, Graph convolutional network, Label distribution learning* 
 </div>
@@ -37,6 +36,9 @@ Qinkai Yang, **Chao Tan**, Junzhao Hao, Genlin Ji \\
 *Keywords: Open-world SSL, Imbalanced distributions, Label distribution learning* 
 </div>
 </div>
+
+## 🎙 All Publications
+
 
 - `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
 - ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
