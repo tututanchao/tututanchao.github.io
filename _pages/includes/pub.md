@@ -29,23 +29,6 @@ Zilong Xu, **Chao Tan\***, Jiaxi Zhang, Anning Song, Genlin Ji \\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2023</div><img src='images/PR2023LDL.png' alt="PR2023LDL" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[A label distribution manifold learning algorithm](https://www.sciencedirect.com/science/article/pii/S0031320322005921) \\
-**Chao Tan\***, Sheng Chen, Xin Geng, Genlin Ji \\
-*Keywords: Multi-label learning, Label distribution learning, Manifold learning* 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2022</div><img src='images/TKDE2022.png' alt="TKDE2022" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[A novel probabilistic label enhancement algorithm for multi-label distribution learning](https://ieeexplore.ieee.org/abstract/document/9340009/) \\
-  **Chao Tan\***, Sheng Chen, Genlin Ji, Xin Geng \\
-*Keywords: Multi-label classification, Label distribution learning, Manifold learning 
-</div>
-</div>
-
-
 
 ## 🎙 All Publications
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=AERCZEAAAAAJ).
