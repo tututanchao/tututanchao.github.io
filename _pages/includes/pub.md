@@ -53,7 +53,6 @@ Qinkai Yang, **Chao Tan**, Junzhao Hao, Genlin Ji \\
 - `2017 Concurrency and Computation: Practice and Experience` [Semisupervised local preserving embedding algorithm based on maximum margin criterion for large‐scale data streams](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.4246), **Chao Tan\***, Genlin Ji
 - `2015 Machine Learning and Data Mining in Pattern Recognition` [IKLTSA: An incremental kernel LTSA method](https://link.springer.com/chapter/10.1007/978-3-319-21024-7_5), **Chao Tan**, Jihong Guan*, Shuigeng Zhou
 - `2013 Zhineng Xitong Xuebao` [Incremental and evolutionary manifold learning: a survey](https://scholar.google.com/scholar?cluster=4115748736291695601&hl=en&oi=scholarr), **Chao Tan**, Jihong Guan*, Shuigeng Zhou
-- `2012 12th Pacific Rim International Conference on Artificial Intelligence` [A feature space alignment learning algorithm](https://link.springer.com/chapter/10.1007/978-3-642-32695-0_75), **Chao Tan**, Jihong Guan*
 
 
 ### 💼 Conference Papers
@@ -70,4 +69,5 @@ Qinkai Yang, **Chao Tan**, Junzhao Hao, Genlin Ji \\
 - `2015 Third International Conference on Advanced Cloud and Big Data` [SLFE: A New Semi-supervised Local Feature Extraction Algorithm](https://ieeexplore.ieee.org/abstract/document/7435490/), **Chao Tan\***, Genlin Ji, Bin Zhao
 - `2013 Knowledge Science, Engineering and Management` [A nonlinear dimension reduction method with both distance and neighborhood preservation](https://link.springer.com/chapter/10.1007/978-3-642-39787-5_5), **Chao Tan**, Chao Chen, Jihong Guan*
 - `2012 Advanced Data Mining and Applications: 8th International Conference` [A new manifold learning algorithm based on incremental spectral decomposition](https://link.springer.com/chapter/10.1007/978-3-642-35527-1_13), **Chao Tan**, Jihong Guan*
+- `2012 12th Pacific Rim International Conference on Artificial Intelligence` [A feature space alignment learning algorithm](https://link.springer.com/chapter/10.1007/978-3-642-32695-0_75), **Chao Tan**, Jihong Guan*
 
