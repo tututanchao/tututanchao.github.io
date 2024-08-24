@@ -1,4 +1,5 @@
 # 🗃️ Projects
+
 - **2025 - 2028**, Research on Incremental Label Distribution Learning in Open-environment, National Natural Science Foundation of China
 - **2023 - 2026**, Key technologies of big data governance and analysis for national audit and research and development, Jiangsu Province science and technology plan key research and development plan project(sub topic)
 - **2018 - 2020**, Research on incremental feature extraction algorithms of high dimensional big data streams, National Natural Science Foundation of China
