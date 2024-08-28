@@ -7,5 +7,5 @@ As a first author or corresponding author, I have published over 20 papers in to
 # ✨ Research Interests
 - Machine learning
 - Label distribution learning and Label enhancement
-- Open-word learning
+- Open-world learning
 - Image classification
