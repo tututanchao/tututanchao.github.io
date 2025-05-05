@@ -48,6 +48,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 - `2017 Journal of Computer Research and Development` [Self-adaptive Streaming Big Data Learning Algorithm Based on Incremental Tangent Space Alignment](https://crad.ict.ac.cn/en/article/doi/10.7544/issn1000-1239.2017.20160712), **Chao Tan\***, Genlin Ji, Bin Zhao
 - `2017 Concurrency and Computation: Practice and Experience` [Semisupervised local preserving embedding algorithm based on maximum margin criterion for large‐scale data streams](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.4246), **Chao Tan\***, Genlin Ji
 - `2017 Concurrency and Computation: Practice and Experience` [Semi-supervised incremental feature extraction algorithm for large-scale data stream](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.3914), **Chao Tan\***, Genlin Ji
+- `2014 Pattern Recognition and Artificial Intelligence` [Multi-sample incremental manifold learning algorithm based on Isogonal mapping](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=%E5%9F%BA%E4%BA%8E%E7%AD%89%E8%A7%92%E6%98%A0%E5%B0%84%E7%9A%84%E5%A4%9A%E6%A0%B7%E6%9C%AC%E5%A2%9E%E9%87%8F%E6%B5%81%E5%BD%A2%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95&btnG=), **Chao Tan**, Jihong Guan*, Shuigeng Zhou
 - `2013 CAAI Transactions on Intelligent Systems` [Incremental and evolutionary manifold learning: a survey](https://scholar.google.com/scholar?cluster=4115748736291695601&hl=en&oi=scholarr), **Chao Tan**, Jihong Guan*, Shuigeng Zhou
 
 
