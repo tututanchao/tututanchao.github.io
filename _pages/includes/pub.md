@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-## 🎙 Selected Research Papers
+## 🎙 Nearest Research Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/kbs2025.png' alt="efficient" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
