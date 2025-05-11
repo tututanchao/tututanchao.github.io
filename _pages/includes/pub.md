@@ -2,6 +2,13 @@
 # 📝 Publications 
 ## 🎙 Selected Research Papers
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='1-s2.0-S0950705125007129-gr2_lrg.jpg' alt="efficient" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[RG4LDL: Renormalization Group for Label Distribution Learning](https://www.sciencedirect.com/science/article/pii/S0950705125007129), **Chao Tan\***, Sheng Chen, Jiaxi Zhang, Zilong Xu, Xin Geng, Genlin Ji \\
+*Keywords: Label distribution learning, Unsupervised neural network, Renormalization group, Restricted Boltzmann machine* 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2024</div><img src='images/xu2024efficient.png' alt="efficient" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Efficient Representation Learning for Generalized Category Discovery](https://www.sciencedirect.com/science/article/pii/S0950705124008487) \\
@@ -20,13 +27,7 @@ Zilong Xu, **Chao Tan\***, Jiaxi Zhang, Anning Song, Genlin Ji \\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2023</div><img src='images/PR2023LEM.png' alt="PR2023LEM" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[A novel label enhancement algorithm based on manifold learning](https://www.sciencedirect.com/science/article/pii/S0031320322006689) \\
-**Chao Tan\***, Sheng Chen, Xin Geng, Genlin Ji \\
-*Keywords: Multi-label learning, Label enhancement, Incremental subspace learning* 
-</div>
-</div>
+
 
 
 
