@@ -2,7 +2,7 @@
 # 📝 Publications 
 ## 🎙 Selected Research Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/kbs2025.png' alt="efficient" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/kbs2025.png' alt="efficient" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 [RG4LDL: Renormalization Group for Label Distribution Learning](https://www.sciencedirect.com/science/article/pii/S0950705125007129), **Chao Tan\***, Sheng Chen, Jiaxi Zhang, Zilong Xu, Xin Geng, Genlin Ji \\
 *Keywords: Label distribution learning, Unsupervised neural network, Renormalization group, Restricted Boltzmann machine* 
