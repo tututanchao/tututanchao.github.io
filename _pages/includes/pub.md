@@ -34,7 +34,7 @@ Zilong Xu, **Chao Tan\***, Jiaxi Zhang, Anning Song, Genlin Ji \\
 ## 🎙 All Publications
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=AERCZEAAAAAJ).
 ### 📰 Journal Papers
-- `2025 Knowledge-based Systems` [RG4LDL: Renormalization Group for Label Distribution Learning](https://www.sciencedirect.com/science/article/pii/S0950705125007129), **Chao Tan\***, Sheng Chen, Jiaxi Zhang, Zilong Xu, Xin Geng, Genlin Ji**<span style="color: red;">中科院一区TOP</span>**
+- `2025 Knowledge-based Systems` [RG4LDL: Renormalization Group for Label Distribution Learning](https://www.sciencedirect.com/science/article/pii/S0950705125007129), **Chao Tan\***, Sheng Chen, Jiaxi Zhang, Zilong Xu, Xin Geng, Genlin Ji**<span style="color: red;">(中科院一区TOP)</span>**
 - `2024 Knowledge-based Systems` [Efficient Representation Learning for Generalized Category Discovery](https://www.sciencedirect.com/science/article/pii/S0950705124008487), Zilong Xu, **Chao Tan\***, Jiaxi Zhang, Anning Song, Genlin Ji**<span style="color: red;">中科院一区TOP</span>**
 - `2024 Pattern Recognition` [Label enhancement via manifold approximation and projection with graph convolutional network](https://www.sciencedirect.com/science/article/pii/S0031320324001985), **Chao Tan\***, Sheng Chen, Xin Geng, Yunyao Zhou, Genlin Ji**<span style="color: red;">CCF B 中科院一区TOP</span>**
 - `2023 Concurrency and Computation: Practice and Experience` [Multi‐label enhancement manifold learning algorithm for vehicle video](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.6660), **Chao Tan\***, Genlin Ji, Xiaoqian Zeng
