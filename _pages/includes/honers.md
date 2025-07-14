@@ -1,6 +1,6 @@
 # 🏅 Honors and Awards
 ## 🎖 Academic Title:
-- Member of CSIG-BVD Special Committee
+- Member of CSIG-BVD Committee
 - Member, CSIG Women Authors Committee
 - Member of the China Computer Federation
 - Member of the Jiangsu Assocation of Artificial Intelligence
