@@ -7,7 +7,7 @@
 - 2014.12 – 2018.06: Lecturer,	School of Computer Science and Technology, Nanjing Normal University
   
 ## 🎖 Academic Title:
-- Member of Artificial Intelligence & Pattern Recognition Committee of China Computer Federation
+- Member of the Artificial Intelligence & Pattern Recognition Committee of China Computer Federation
 - Member of the Big Visual Data Committee of China Society of Image and Graphics(CSIG-BVD)
 - Member of the China Computer Federation
 - Member of the Jiangsu Assocation of Artificial Intelligence
