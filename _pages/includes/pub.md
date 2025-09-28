@@ -54,7 +54,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 
 ### 💼 Conference Papers
-- `2025 Thirty-Fourth International Joint Conference on Artificial Intelligence` [Decoupled Imbalanced Label Distribution Learning](https://doi.org/10.24963/ijcai.2025/579), Y Gao, X Sun, M Ling, **C Tan**, Y Zhai, G Lv
+- `2025 Thirty-Fourth International Joint Conference on Artificial Intelligence` [Decoupled Imbalanced Label Distribution Learning](https://doi.org/10.24963/ijcai.2025/579) Y Gao, X Sun, M Ling, **C Tan**, Y Zhai, G Lv
 - `2024 International Joint Conference on Neural Networks` [Imbalanced Label Enhancement Based on Variational Information Bottleneck](https://ieeexplore.ieee.org/document/10650759), Anning Song, **Chao Tan\***, Jiaxi Zhang, Zilong Xu
 - `2023 Chinese Conference on Pattern Recognition and Computer Vision` [Leveraging Data Correlations for Skin Lesion Classification](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_6), Junzhao Hao, **Chao Tan\***, Qinkai Yang, Jing Cheng, Genlin Ji
 - `2023 Eleventh International Conference on Advanced Cloud and Big Data` [Label Distribution-based Open-world Semi-supervised Learning](https://ieeexplore.ieee.org/abstract/document/10516485/), Qinkai Yang, **Chao Tan**, Junzhao Hao, Genlin Ji
