@@ -54,7 +54,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 
 ### 💼 Conference Papers
-- `2025 Thirty-Fourth International Joint Conference on Artificial Intelligence` [Decoupled Imbalanced Label Distribution Learning](https://doi.org/10.24963/ijcai.2025/579) Y Gao, X Sun, M Ling, **C Tan**, Y Zhai, G Lv
+- `2025 Thirty-Fourth International Joint Conference on Artificial Intelligence` [Decoupled Imbalanced Label Distribution Learning](https://doi.org/10.24963/ijcai.2025/579), Y Gao, X Sun, M Ling, **C Tan**, Y Zhai, G Lv
 - `2024 International Joint Conference on Neural Networks` [Imbalanced Label Enhancement Based on Variational Information Bottleneck](https://ieeexplore.ieee.org/document/10650759), Anning Song, **Chao Tan\***, Jiaxi Zhang, Zilong Xu
 - `2023 Chinese Conference on Pattern Recognition and Computer Vision` [Leveraging Data Correlations for Skin Lesion Classification](https://link.springer.com/chapter/10.1007/978-981-99-8558-6_6), Junzhao Hao, **Chao Tan\***, Qinkai Yang, Jing Cheng, Genlin Ji
 - `2023 Eleventh International Conference on Advanced Cloud and Big Data` [Label Distribution-based Open-world Semi-supervised Learning](https://ieeexplore.ieee.org/abstract/document/10516485/), Qinkai Yang, **Chao Tan**, Junzhao Hao, Genlin Ji
@@ -81,18 +81,5 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 - **2017 - 2018**, Research on the incremental adaptive manifold learning algorithm for big data flow, the open project foundation of Shanghai Key Laboratory of Intelligent Information Processing, Fudan University
 - **2015 - 2017**, Incremental Semi-supervised Learning Algorithms for Big Data Stream, Natural Science Research of Jiangsu Higher Education Institutions
 
-## 🎖 Research Experience:
-- 2025.07 – Present: Full Professor, School of Computer and Electronic Information/School of Artificial Intelligence, Nanjing Normal University
-- 2019.09 - 2020.08: CSC-sponsored Academic Visitor, School of Electronic and Computer Science, University of Southampton
-- 2018.07 – 2025.06: Associate Professor,	School of Computer and Electronic Information/School of Artificial Intelligence, Nanjing Normal University
-- 2016.11 - 2020.11: Postdoctoral researcher, School of Computer Science and Engineering, Southeast University
-- 2014.12 – 2018.06: Lecturer,	School of Computer Science and Technology, Nanjing Normal University
-  
-## 🎖 Academic Title:
-- Member of the Artificial Intelligence & Pattern Recognition Committee of China Computer Federation
-- Member of the Big Visual Data Committee of China Society of Image and Graphics(CSIG-BVD)
-- Member of the China Computer Federation
-- Member of the Jiangsu Assocation of Artificial Intelligence
-- PRICAI 2018 session chair
-- PC Member of the International Conference on Advanced Cloud and Big Data
+
 
