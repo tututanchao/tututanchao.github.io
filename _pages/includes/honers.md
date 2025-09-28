@@ -1,4 +1,4 @@
-# 🏅 Research Experience and Academic Services
+# 🏅 Research Experience & Academic Services
 ## 🎖 Research Experience:
 - 2025.07 – Present: Full Professor, School of Computer and Electronic Information/School of Artificial Intelligence, Nanjing Normal University
 - 2019.09 - 2020.08: CSC-sponsored Academic Visitor, School of Electronic and Computer Science, University of Southampton
