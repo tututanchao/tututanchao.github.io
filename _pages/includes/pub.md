@@ -2,6 +2,12 @@
 # 📝 Publications 
 ## 🎙 Nearest Research Papers
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/ijcai.png' alt="efficient" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Label Enhancement via Cross-View Fusion and Mixed Graph Propagation, Mengjiao Kai, **Chao Tan\***, Yanda Wang, Juanna Zhai, Kang Wu, et al**<span style="color: red;">(CCF B)</span>** \\
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/kbs2025.png' alt="efficient" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [RG4LDL: Renormalization Group for Label Distribution Learning](https://www.sciencedirect.com/science/article/pii/S0950705125007129), **Chao Tan\***, Sheng Chen, Jiaxi Zhang, Zilong Xu, Xin Geng, Genlin Ji**<span style="color: red;">(中科院一区TOP)</span>** \\
