@@ -52,7 +52,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 
 ### 💼 Conference Papers
-- `2025 35th International Joint Conference on Artificial Intelligence` [Label Enhancement via Cross-View Fusion and Mixed Graph Propagation], M Kai, **C Tan**, et al**<span style="color: red;">(CCF B)</span>**
+- `2025 35th International Joint Conference on Artificial Intelligence` Label Enhancement via Cross-View Fusion and Mixed Graph Propagation, M Kai, **C Tan\***, et al**<span style="color: red;">(CCF B)</span>**
 - `2026 29th International Conference on Computer Supported Cooperative Work in Design` [Cross-Attention-Driven Generalized Category Discovery](https://ieeexplore.ieee.org/abstract/document/11581604), Siwei Chen, **Chao Tan\***, Weichao Kong**<span style="color: red;">(CCF C)</span>**
 - `2026 Proceedings of the AAAI Conference on Artificial Intelligence` [Adaptive Momentum and EMA-weighted Modeling for Imbalanced Label Distribution Learning](https://ojs.aaai.org/index.php/AAAI/article/view/39269), Y Gao, X Sun, **C Tan**, C Hu, G Lv**<span style="color: red;">(CCF A)</span>**
 - `2025 Thirty-Fourth International Joint Conference on Artificial Intelligence` [Decoupled Imbalanced Label Distribution Learning](https://doi.org/10.24963/ijcai.2025/579), Y Gao, X Sun, M Ling, **C Tan**, Y Zhai, G Lv**<span style="color: red;">(CCF A)</span>**
