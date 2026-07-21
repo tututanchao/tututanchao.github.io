@@ -5,6 +5,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/ijcai.png' alt="efficient" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Label Enhancement via Cross-View Fusion and Mixed Graph Propagation, Mengjiao Kai, **Chao Tan\***, Yanda Wang, Juanna Zhai, Kang Wu, et al**<span style="color: red;">(CCF B)</span>** \\
+*IJCAI2026, Bremen, Germany, on 15-21 of August 2026.*  
 </div>
 </div>
 
