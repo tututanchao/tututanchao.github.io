@@ -41,6 +41,7 @@ Zilong Xu, **Chao Tan\***, Jiaxi Zhang, Anning Song, Genlin Ji**<span style="col
 ## 🎙 All Publications
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=AERCZEAAAAAJ).
 ### 📰 Journal Papers
+- `2026 International Journal of Machine Learning and Cybernetics` [Generalized zero-shot learning based on style and feature reconstruction](https://link.springer.com/epdf/10.1007/s13042-026-03227-w?sharing_token=fusXWuX0gJZ7e_oglV7yIPe4RwlQNchNByi7wbcMAY6aASUCsWVrp0_SwZHmsGoQfqa7I91-96lHBzer7BSuOLKFBLMfx-2E_RQBAMbMHira1zbSOGF-bY2Q1h1VgVb73TcHtSzuul2YWnp9Ulq5HIcCYcJLBLkaDECFDV4qRkc%3D), Weichao Kong, **Chao Tan\***, Siwei Chen, Genlin Ji
 - `2025 Knowledge-based Systems` [RG4LDL: Renormalization Group for Label Distribution Learning](https://www.sciencedirect.com/science/article/pii/S0950705125007129), **Chao Tan\***, Sheng Chen, Jiaxi Zhang, Zilong Xu, Xin Geng, Genlin Ji**<span style="color: red;">(CCF C 中科院一区TOP)</span>**
 - `2024 Knowledge-based Systems` [Efficient Representation Learning for Generalized Category Discovery](https://www.sciencedirect.com/science/article/pii/S0950705124008487), Zilong Xu, **Chao Tan\***, Jiaxi Zhang, Anning Song, Genlin Ji**<span style="color: red;">(CCF C 中科院一区TOP)</span>**
 - `2024 Pattern Recognition` [Label enhancement via manifold approximation and projection with graph convolutional network](https://www.sciencedirect.com/science/article/pii/S0031320324001985), **Chao Tan\***, Sheng Chen, Xin Geng, Yunyao Zhou, Genlin Ji**<span style="color: red;">(CCF B 中科院一区TOP)</span>**
