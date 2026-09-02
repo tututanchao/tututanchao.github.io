@@ -1,6 +1,12 @@
 
 # 📝 Publications 
 ## 🎙 Nearest Research Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/CAA Journal of Automatica Sinica</div><img src='images/2881D93C255EE6796B31308614362416.png' alt="efficient" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Generative Label Enhancement via Renormalization Group, **Chao Tan\***, Sheng Chen, Mengjiao Kai, Shangce Gao, Xin Geng**<span style="color: red;">(CAA A+, 中科院一区TOP, IF=18.3)</span>** \\
+*Keywords: Label enhancement, Neural Network, Renormalization group, Restricted Boltzmann machine*  
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/ijcai.png' alt="efficient" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
