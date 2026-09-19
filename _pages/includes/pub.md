@@ -3,7 +3,7 @@
 ## 🎙 Nearest Research Papers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/CAA Journal of Automatica Sinica</div><img src='images/2881D93C255EE6796B31308614362416.png' alt="efficient" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Generative Label Enhancement via Renormalization Group, **Chao Tan\***, Sheng Chen, Mengjiao Kai, Shangce Gao, Xin Geng**<span style="color: red;">(CAA A+, 中科院一区TOP, IF=18.3)</span>** \\
+Generative Label Enhancement via Renormalization Group, **Chao Tan\***, Sheng Chen, Mengjiao Kai, Shangce Gao, Xin Geng**<span style="color: red;">(CAA A+, 中科院一区TOP, IF=18.3)</span>**,DOI:10.1109/JAS.2026.126488 \\
 *Keywords: Label enhancement, Neural Network, Renormalization group, Restricted Boltzmann machine*  
 </div>
 </div>
@@ -47,7 +47,7 @@ Zilong Xu, **Chao Tan\***, Jiaxi Zhang, Anning Song, Genlin Ji**<span style="col
 ## 🎙 All Publications
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=AERCZEAAAAAJ).
 ### 📰 Journal Papers
-- `2026 IEEE/CAA Journal of Automatica Sinica` Generative Label Enhancement via Renormalization Group, DOI: 10.1109/JAS.2026.126488, **Chao Tan\***, Sheng Chen, Mengjiao Kai, Shangce Gao, Xin Geng**<span style="color: red;">(CAA A+, 中科院一区TOP, IF=18.3)</span>**
+- `2026 IEEE/CAA Journal of Automatica Sinica` Generative Label Enhancement via Renormalization Group, DOI:10.1109/JAS.2026.126488, **Chao Tan\***, Sheng Chen, Mengjiao Kai, Shangce Gao, Xin Geng**<span style="color: red;">(CAA A+, 中科院一区TOP, IF=18.3)</span>**
 - `2026 International Journal of Machine Learning and Cybernetics` [Generalized zero-shot learning based on style and feature reconstruction](https://link.springer.com/article/10.1007/s13042-026-03227-w), Weichao Kong, **Chao Tan\***, Siwei Chen, Genlin Ji
 - `2025 Knowledge-based Systems` [RG4LDL: Renormalization Group for Label Distribution Learning](https://www.sciencedirect.com/science/article/pii/S0950705125007129), **Chao Tan\***, Sheng Chen, Jiaxi Zhang, Zilong Xu, Xin Geng, Genlin Ji**<span style="color: red;">(CCF C 中科院一区TOP)</span>**
 - `2024 Knowledge-based Systems` [Efficient Representation Learning for Generalized Category Discovery](https://www.sciencedirect.com/science/article/pii/S0950705124008487), Zilong Xu, **Chao Tan\***, Jiaxi Zhang, Anning Song, Genlin Ji**<span style="color: red;">(CCF C 中科院一区TOP)</span>**
