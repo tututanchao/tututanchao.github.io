@@ -14,11 +14,11 @@
 - PC Member of the International Conference on Advanced Cloud and Big Data
 
 ## 🎖 Awards:
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021 ACM China Council Nanjing Chapter Rising Star Award</div><img src='images/ACM.jpg' alt="efficient" width="100%"></div></div>
+-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021 ACM China Council Nanjing Chapter Rising Star Award</div><img src='images/ACM.jpg' alt="efficient" width="100%"></div></div>
 
 ## 🎙 Certificates of Reviewing:
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/Certificate_PR_Recognised_1.png' alt="efficient" width="100%"></div></div>
+-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/Certificate_PR_Recognised_1.png' alt="efficient" width="100%"></div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Sciences</div><img src='images/Certificate_INS_Recognised_1.png' alt="efficient" width="100%"></div></div>
+-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Sciences</div><img src='images/Certificate_INS_Recognised_1.png' alt="efficient" width="100%"></div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/Certificate_NEUCOM_Recognised_1.png' alt="efficient" width="100%"></div></div>
+-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/Certificate_NEUCOM_Recognised_1.png' alt="efficient" width="100%"></div></div>
