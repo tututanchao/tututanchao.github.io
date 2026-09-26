@@ -16,7 +16,7 @@
 ## 🎖 Awards:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021 ACM China Council Nanjing Chapter Rising Star Award</div><img src='images/ACM.jpg' alt="efficient" width="100%">
 
-## 🎙 Certificates of Reviewing:
+## 🎖 Certificates of Reviewing:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/Certificate_PR_Recognised_1.png' alt="efficient" width="100%">
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Sciences</div><img src='images/Certificate_INS_Recognised_1.png' alt="efficient" width="100%">
