@@ -17,3 +17,8 @@
 - 2021 ACM China Council Nanjing Chapter Rising Star Award
 - CBD2016 Best Paper Award
 
+## 🎙 Certificates of Reviewing:
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/Certificate_PR_Recognised_1.png' alt="efficient" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Sciences
+</div><img src='images/Certificate_INS_Recognised_1.png' alt="efficient" width="100%"></div></div>
