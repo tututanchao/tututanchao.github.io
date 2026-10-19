@@ -7,7 +7,7 @@
 
 
 # Teaching courses:
-- Undergraduate students (2017 - present): "Fundamentals of Computer Systems" 1019000014 (36 class hours)
+- Undergraduate students (2017 - present): "Fundamentals of Computer Systems" 1019000014 (54 class hours)
  
 - Undergraduate students (2023 - present): "Fundamentals of Computing and Artificial Intelligence" 1019009010 (45 class hours)
  
