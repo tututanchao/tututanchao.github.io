@@ -67,6 +67,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 
 ### 💼 Conference Papers
+- `2026 8th International Conference on Distributed Artificial Intelligence` DAGGuard: Budgeted Release-Gate Verification for Manager-Agent Workflows, Juanna Zhai, **Chao Tan\***,  Kang Wu, Mengjiao Kai**<span style="color: red;">(CCF C)</span>**
 - `2026 35th International Joint Conference on Artificial Intelligence` [Label Enhancement via Cross-View Fusion and Mixed Graph Propagation](https://www.ijcai.org/proceedings/2026/491), Mengjiao Kai, **Chao Tan\***, Yanda Wang, Juanna Zhai, Kang Wu, et al**<span style="color: red;">(CCF B)</span>**
 - `2026 29th International Conference on Computer Supported Cooperative Work in Design` [Cross-Attention-Driven Generalized Category Discovery](https://ieeexplore.ieee.org/abstract/document/11581604), Siwei Chen, **Chao Tan\***, Weichao Kong**<span style="color: red;">(CCF C)</span>**
 - `2026 Proceedings of the AAAI Conference on Artificial Intelligence` [Adaptive Momentum and EMA-weighted Modeling for Imbalanced Label Distribution Learning](https://ojs.aaai.org/index.php/AAAI/article/view/39269), Y Gao, X Sun, **C Tan**, C Hu, G Lv**<span style="color: red;">(CCF A)</span>**
