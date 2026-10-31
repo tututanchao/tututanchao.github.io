@@ -5,6 +5,8 @@
 
 
 # Teaching courses:
-- Undergraduate students (2017 - present): "Fundamentals of Computer Systems" 1019000014 (54 class hours) 
-- Undergraduate students (2023 - present): "Fundamentals of Computing and Artificial Intelligence" 1019009010 (45 class hours) 
-- Doctoral students (2026 - present): "Machine Learning Theory" 310812194007 (54 class hours)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<span>Undergraduate students (2017 - present): "Fundamentals of Computer Systems" 1019000014 (54 class hours) </span>
+<span>Undergraduate students (2023 - present): "Fundamentals of Computing and Artificial Intelligence" 1019009010 (45 class hours) </span>
+<span>Doctoral students (2026 - present): "Machine Learning Theory" 310812194007 (54 class hours)</span>
+</div>
