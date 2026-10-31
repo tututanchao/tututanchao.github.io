@@ -5,7 +5,7 @@
 - 2016.11 - 2020.11: Postdoctoral researcher, School of Computer Science and Engineering, Southeast University
 - 2014.12 – 2018.06: Lecturer,	School of Computer Science and Technology, Nanjing Normal University
   
-## 🎖 Academic Title:
+# 🎖 Academic Title:
 - Member of the Artificial Intelligence & Pattern Recognition Committee of China Computer Federation(CCF-AI)
 - Member of the Big Visual Data Committee of China Society of Image and Graphics(CSIG-BVD)
 - Member of the China Computer Federation
@@ -13,7 +13,7 @@
 - PRICAI 2018 session chair
 - PC Member of the International Conference on Advanced Cloud and Big Data
 
-## 🎖 Awards:
+# 🎖 Awards:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021 ACM China Council Nanjing Chapter Rising Star Award</div><img src='images/ACM.jpg' alt="efficient" width="100%">
 
 
