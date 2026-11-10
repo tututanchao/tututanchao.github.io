@@ -34,7 +34,7 @@ Zilong Xu, **Chao Tan\***, Jiaxi Zhang, Anning Song, Genlin Ji**<span style="col
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2024</div><img src='images/PR2024.png' alt="PR2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Label enhancement via manifold approximation and projection with graph convolutional network](https://www.sciencedirect.com/science/article/pii/S0031320324001985) \\
-**Chao Tan\***, Sheng Chen, Xin Geng, Yunyao Zhou, Genlin Ji**<span style="color: red;">(CCF B 中科院一区TOP)</span>** \\
+**Chao Tan\***, Sheng Chen, Xin Geng, Yunyao Zhou, Genlin Ji**<span style="color: red;">(CCF B, 中科院一区TOP)</span>** \\
 *Keywords: Multi-label classification, Label distribution learning, Manifold learning* 
 </div>
 </div>
