@@ -14,9 +14,7 @@
 - PC Member of the International Conference on Advanced Cloud and Big Data
 
 # 🎖 Awards:
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021 ACM China Council Nanjing Chapter Rising Star Award</div><img src='images/ACM.jpg' alt="efficient" width="100%">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/2024106636264-发明专利证书_1.jpg' alt="efficient" width="150%">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/发明专利证书-一种基于双生成器与通道注意力机制的视频异常检测方法2023106227164(1)_1.jpg' alt="efficient" width="150%">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021 ACM China Council Nanjing Chapter Rising Star Award</div><img src='images/ACM.jpg' alt="efficient" width="100%"><div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/2024106636264-发明专利证书_1.jpg' alt="efficient" width="150%"><div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent</div><img src='images/发明专利证书-一种基于双生成器与通道注意力机制的视频异常检测方法2023106227164(1)_1.jpg' alt="efficient" width="150%">
 
 
 
